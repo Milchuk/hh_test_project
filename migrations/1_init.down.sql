@@ -1,0 +1,4 @@
+DROP TRIGGER IF EXISTS set_goods_priority ON goods;
+DROP FUNCTION IF EXISTS set_priority;
+DROP TABLE IF EXISTS goods;
+DROP TABLE IF EXISTS projects;
